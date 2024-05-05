@@ -11,7 +11,7 @@ I'm well-versed in languages like C#, .NET Core, .NET Framework, Javascript, and
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css,github)](https://skillicons.dev)
 
-Lately, I've been exploring exciting new tech like Blazor, React, and Python. 
+Lately, I've been exploring exciting new tech like Blazor, React, Node.js, and Python. 
 
 [![My Skills](https://skillicons.dev/icons?i=py,nodejs,react,unity)](https://skillicons.dev)
 
