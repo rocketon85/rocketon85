@@ -1,4 +1,5 @@
-## Hi there  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJjYjhndHJkemdqZDFvc3Nkeno3a3B2cGRwa3A3YXllYnc3bGczbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif" width="25"/>, My name is **B**runo. I'm Software Developer.
+![Header](./github-header-image.png)
+
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=rocketon85&theme=bear&show_icons=true">
@@ -19,3 +20,7 @@ My experience extends to adapting to various databases like MySQL, Oracle, MSSQL
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocketon85&layout=compact&theme=bear)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rocketon85&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+
